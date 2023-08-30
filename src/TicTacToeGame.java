@@ -31,6 +31,12 @@ public class TicTacToeGame
     public void playGame()
     {
         //print the board
+        System.out.println(square1+"|"+square2+"|"+square3);
+        System.out.println("-+-+-");
+        System.out.println(square4+"|"+square5+"|"+square6);
+        System.out.println("-+-+-");
+        System.out.println(square7+"|"+square8+"|"+square9);
+
         //loop until the game is over.
 
             // say which player (X or O) is next.
@@ -42,7 +48,11 @@ public class TicTacToeGame
             // change the square
 
             // print the board again
-
+            System.out.println(square1+"|"+square2+"|"+square3);
+            System.out.println("-+-+-");
+            System.out.println(square4+"|"+square5+"|"+square6);
+            System.out.println("-+-+-");
+            System.out.println(square7+"|"+square8+"|"+square9);
             // check if somebody won
 
             // switch players
