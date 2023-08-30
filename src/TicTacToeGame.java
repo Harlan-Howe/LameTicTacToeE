@@ -30,7 +30,22 @@ public class TicTacToeGame
      */
     public void playGame()
     {
+        //print the board
+        //loop until the game is over.
 
+            // say which player (X or O) is next.
+
+            // loop until we get a good answer...
+                // ask which square they want
+                // check whether it is legal...
+
+            // change the square
+
+            // print the board again
+
+            // check if somebody won
+
+            // switch players
     }
 
 }
